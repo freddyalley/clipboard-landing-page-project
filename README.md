@@ -11,4 +11,4 @@ Built with
 - Flexbox
 - CSS Grid
 
-CREDITS COLLABORATORS -Fredrick Yalley (https://fredrick-yalley) @fredrick-yalley -Evans Donkoh (https://github.com/Devans-Kobina) @Devans-Kobina -Deborah Elorm Dompreh (https://github.com/Dedompreh) @Dedompreh
+CREDITS COLLABORATORS -Fredrick Yalley (https://github.com/fredrick-yalley) @fredrick-yalley -Evans Donkoh (https://github.com/Devans-Kobina) @Devans-Kobina -Deborah Elorm Dompreh (https://github.com/Dedompreh) @Dedompreh
