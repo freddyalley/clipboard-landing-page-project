@@ -85,7 +85,6 @@ input[type="submit"]:hover {
   margin-bottom: 7rem;
   margin-top: 30px;
   width: 470px;
-  height: 56px;
 }
 .download-2 {
   display: flex;
@@ -95,7 +94,6 @@ input[type="submit"]:hover {
   margin-bottom: 7rem;
   margin-top: 30px;
   width: 470px;
-  height: 56px;
 }
 
 .track {
@@ -335,7 +333,7 @@ footer {
   grid-row: 2;
 }
  
-@media (max-width: 320px) {
+@media (max-width: 520px) {
   body {
     width: 311px;
     font-family: Bai Jamjuree;
@@ -383,13 +381,13 @@ footer {
   }
   .download-1 {
     flex-direction: column;
-    height: 56px;
+    
     width: 311px;
   }
   .download-2 {
     flex-direction: column;
     width: 311px;
-    height: 56px;
+    
   }
   #iOS {
     width: 311px;
